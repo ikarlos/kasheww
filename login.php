@@ -32,9 +32,35 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     $stmt->close();
-} else {
-    echo "Form submission method is not POST.";
 }
 
 $conn->close();
 ?>
+
+<?php
+include("./partials/header.php");
+
+
+?>
+<body>
+    
+<?php
+include("./partials/navbar.php");
+
+?>
+        <div class="container-fluid py-5 mb-5 hero-header">
+
+<form action="login.php" method="POST">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required><br><br>
+        
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br><br>
+        
+        <button type="submit">Login</button>
+    </form>
+    </div>
+<?php  
+       include ("./partials/footer.php");
+
+       ?>
