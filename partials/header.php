@@ -10,7 +10,7 @@ if (isset($_SESSION['user_id'])) {
 
     <head>
         <meta charset="utf-8">
-        <title>Fruitables - Vegetable Website Template</title>
+        <title>Kashew Store</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
         <meta content="" name="description">
@@ -31,6 +31,8 @@ if (isset($_SESSION['user_id'])) {
 
         <!-- Customized Bootstrap Stylesheet -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link rel="shortcut icon" href="./img/icon.svg" type="image/x-icon">
+
 
         <!-- Template Stylesheet -->
         <link href="css/style.css" rel="stylesheet">
