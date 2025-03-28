@@ -30,6 +30,8 @@ $isLoggedIn = isset($_SESSION["user_id"]);
                 <div class="navbar-nav mx-auto">
                     <a href="index.php" class="nav-item nav-link active">Home</a>
                     <a href="about.php" class="nav-item nav-link">About</a>
+                    <a href="shop.php" class="nav-item nav-link">Shop Now</a>
+
                     <a href="contact.php" class="nav-item nav-link">Contact</a>
                 </div>
                 <div class="d-flex m-3 me-0">

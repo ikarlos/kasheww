@@ -31,7 +31,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         ";
         
         // Send email
-        if ($mail->send('kashewwstore@gmail.com', $email_subject, $email_body)) {
+        if ($mail->send('Talibnisar050@gmail.com', $email_subject, $email_body)) {
             $success_message = "Thank you for your message. We will get back to you soon!";
         } else {
             $error_message = "Sorry, there was an error sending your message. Please try again later.";
