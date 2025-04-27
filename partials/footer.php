@@ -48,9 +48,9 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="footer-item">
                             <h4 class="text-light mb-3">Contact</h4>
-                            <p>Address: 1429 Netus Rd, NY 48247</p>
-                            <p>Email: Example@gmail.com</p>
-                            <p>Phone: +0123 4567 8910</p>
+                            <p>Address: Baramulla, Jammu and Kashmir, 193101</p>
+                            <p>Email: Talibnisar050@gmail.com</p>
+                            <p>Phone: +91 93158 79039</p>
                             <p>Payment Accepted</p>
                             <img src="img/payment.png" class="img-fluid" alt="">
                         </div>

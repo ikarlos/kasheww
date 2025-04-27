@@ -20,7 +20,7 @@ include("./partials/header.php");
         <div class="container">
             <div class="about-section">
                 <h2>1. Acceptance of Terms</h2>
-                <p>By accessing and using Fruitables, you agree to be bound by these Terms and Conditions. If you do not agree with any part of these terms, please do not use our services.</p>
+                <p>By accessing and using Kasheww Store, you agree to be bound by these Terms and Conditions. If you do not agree with any part of these terms, please do not use our services.</p>
             </div>
 
             <div class="about-section">

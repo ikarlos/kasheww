@@ -90,9 +90,9 @@ include("./partials/header.php");
                 <h2>7. Contact Us</h2>
                 <p>If you have any questions about this Privacy Policy, please contact us at:</p>
                 <ul>
-                    <li>Email: privacy@fruitables.com</li>
-                    <li>Phone: +1 (555) 123-4567</li>
-                    <li>Address: 123 Fruit Street, Fresh City, FC 12345</li>
+                    <li>Email: Talibnisar050@gmail.com</li>
+                    <li>Phone: +91 93158 79039</li>
+                    <li>Address: Baramulla, Jammu and Kashmir, 193101</li>
                 </ul>
             </div>
 

@@ -110,14 +110,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                             <i class="fas fa-envelope fa-2x text-primary me-4"></i>
                             <div>
                                 <h4>Mail Us</h4>
-                                <p class="mb-2">ff3008413@gmail.com</p>
+                                <p class="mb-2">Talibnisar050@gmail.com</p>
                             </div>
                         </div>
                         <div class="d-flex p-4 rounded bg-white">
                             <i class="fa fa-phone-alt fa-2x text-primary me-4"></i>
                             <div>
                                 <h4>Telephone</h4>
-                                <p class="mb-2">(+012) 3456 7890</p>
+                                <p class="mb-2">+91 93158 79039</p>
                             </div>
                         </div>
                     </div>
